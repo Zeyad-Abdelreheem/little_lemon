@@ -2,12 +2,12 @@
 <h1> Little Lemon RESTaurant </h1>
 </div>
 <!-- Table of Contents -->
-# :notebook_with_decorative_cover: Table of Contents
+
+# 📓 Table of Contents
 
 - [About the Project](#star2-about-the-project)
   * [Tech Stack](#space_invader-tech-stack)
   * [Features](#dart-features)
-  * [Color Reference](#art-color-reference)
   * [Environment Variables](#key-environment-variables)
 - [Getting Started](#toolbox-getting-started)
   * [Prerequisites](#bangbang-prerequisites)
@@ -15,19 +15,14 @@
   * [Run Locally](#running-run-locally)
 - [Usage](#eyes-usage)
 - [Roadmap](#compass-roadmap)
-- [Contributing](#wave-contributing)
-  * [Code of Conduct](#scroll-code-of-conduct)
 - [License](#warning-license)
 - [Contact](#handshake-contact)
 - [Acknowledgements](#gem-acknowledgements)
   
 
 <!-- About the Project -->
-## :star2: About the Project
-
-<div align="center"> 
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
-</div>
+## ⭐ About the Project
+The project is about a web app for a fictional restaurant called little lemon, the main purpose of the web app is to provide customers with the ability to navigate the menu, order online, book tables and receive offers.
 
 
 <!-- TechStack -->
