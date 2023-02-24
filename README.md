@@ -8,17 +8,12 @@
 - [About the Project](#star2-about-the-project)
   * [Tech Stack](#space_invader-tech-stack)
   * [Features](#dart-features)
-  * [Environment Variables](#key-environment-variables)
 - [Getting Started](#toolbox-getting-started)
   * [Prerequisites](#bangbang-prerequisites)
-  * [Installation](#gear-installation)
-  * [Run Locally](#running-run-locally)
-- [Usage](#eyes-usage)
-- [Roadmap](#compass-roadmap)
-- [License](#warning-license)
+  * [Run Locally](#:gear-run-locally)
 - [Contact](#handshake-contact)
-- [Acknowledgements](#gem-acknowledgements)
-  
+
+
 
 <!-- About the Project -->
 ## ⭐ About the Project
@@ -55,6 +50,7 @@ The main purpose of the web app is to provide customers with the ability to navi
   </ul>
 </details>
 <!-- Features -->
+
 ### :dart: Features
 
 - Booking a table using a REST API
@@ -62,13 +58,7 @@ The main purpose of the web app is to provide customers with the ability to navi
 - Sign in and out securely 
 
 <!-- Env Variables -->
-### :key: Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file
-
-`API_KEY`
-
-`ANOTHER_API_KEY`
 
 <!-- Getting Started -->
 ## 	:toolbox: Getting Started
@@ -76,109 +66,35 @@ To run this project, you will need to add the following environment variables to
 <!-- Prerequisites -->
 ### :bangbang: Prerequisites
 
-This project uses Yarn as package manager
+In order to run the project successfully, you need <br>
+- Django web framework <br>
+- Django rest framework <br>
+- Djoser
+- mysql
+- mysql client
 
+to install any missing package:-
 ```bash
- npm install --global yarn
+ pip install <package_name>
 ```
 
 <!-- Installation -->
-### :gear: Installation
+### :gear: Run Locally
 
-Install my-project with npm
-
+Just clone the project
 ```bash
-  yarn install my-project
-  cd my-project
+  git clone <repo-link>
+  cd little_lemon
+  python manage.py makemigrations
+  python manage.py migrate
+  python manage.py runserver
 ```
+This is going to open the website locally on this link http://127.0.0.1:8000/ <br>
 
-
-<!-- Run Locally -->
-### :running: Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/Louis3797/awesome-readme-template.git
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  yarn install
-```
-
-Start the server
-
-```bash
-  yarn start
-```
-
-
-<!-- Usage -->
-## :eyes: Usage
-
-Use this space to tell a little more about your project and how it can be used. Show additional screenshots, code samples, demos or link to other resources.
-
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
-
-<!-- Roadmap -->
-## :compass: Roadmap
-
-* [x] Todo 1
-* [ ] Todo 2
-
-<!-- Contributing -->
-## :wave: Contributing
-
-<a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
-</a>
-
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-
-<!-- Code of Conduct -->
-### :scroll: Code of Conduct
-
-Please read the [Code of Conduct](https://github.com/Louis3797/awesome-readme-template/blob/master/CODE_OF_CONDUCT.md)
-
-
-<!-- License -->
-## :warning: License
-
-Distributed under the no License. See LICENSE.txt for more information.
 
 
 <!-- Contact -->
 ## :handshake: Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Zeyad Abdelreheem - [@linkedIn](https://www.linkedin.com/in/zeyad-omar/)
 
-Project Link: [https://github.com/Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template)
-
-<!-- Acknowledgments -->
-## :gem: Acknowledgements
-
-Use this section to mention useful resources and libraries that you have used in your projects.
-
- - [Shields.io](https://shields.io/)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
- - [Readme Template](https://github.com/othneildrew/Best-README-Template)
