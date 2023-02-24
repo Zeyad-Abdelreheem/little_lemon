@@ -1,4 +1,4 @@
-# Little Lemon <span style="color:green">REST</span>aurant
+# Little Lemon <span style="color:blue">REST</span>aurant
 
 <!-- Table of Contents -->
 # :notebook_with_decorative_cover: Table of Contents
