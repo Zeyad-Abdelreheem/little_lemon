@@ -1,5 +1,6 @@
-# Little Lemon <span style="color:blue">REST</span>aurant
-
+<div align="center">
+# Little Lemon RESTaurant
+</div>
 <!-- Table of Contents -->
 # :notebook_with_decorative_cover: Table of Contents
 
