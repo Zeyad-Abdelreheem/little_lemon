@@ -1,5 +1,5 @@
 <div align="center">
-# Little Lemon RESTaurant
+<h1> Little Lemon RESTaurant </h1>
 </div>
 <!-- Table of Contents -->
 # :notebook_with_decorative_cover: Table of Contents
